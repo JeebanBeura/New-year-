@@ -240,9 +240,8 @@ span.sete:before {
 
 a.author {
   font-size: 20px;
-  text-decoration: none;
   color: #f47c7c;
- postion: fixed;
+  postion: fixed;
   bottom: 15px;
   right: 15px;
 }
