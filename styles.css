@@ -241,9 +241,9 @@ span.sete:before {
 a.author {
   font-size: 20px;
   color: #f47c7c;
-  postion: fixed;
+  position: fixed;
   bottom: 15px;
-  right: 15px;
+  right: 20px;
 }
 
 @keyframes vem_2017 {
